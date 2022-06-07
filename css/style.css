@@ -2,43 +2,5 @@ h1, h2, h3, p, a{
     color: #e5e5e5e7;
 }
 
-body{
-    background-color: yellow;
-   
-}
 
-/* pode de usar o comando grid-template-area e nomear as areas com qualquer nome
-e dizer em qual linha começa e termina lembrando das linhas virtuais da seguinte forma
-inicia a o header grid-template-area: 1/2; simples assim */
 
-.container{
-    display: grid;
-    grid-template-columns: 3fr ;
-    grid-template-rows: 20vh 70vh 10vh;
-    grid-template-areas: "h h"
-                         "m m"  
-                         "f f"
-    ;
-
-}
-
-header{
-    background-color: black;
-    grid-area: h;
-
-}
-
-main{
-    background-color: white;
-    grid-area: m;
-    
-}
-
-footer{
-    background-color: gray;
-    grid-area: f;   
-}
-
-.menuNavegacao{
-    
-}
