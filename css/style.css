@@ -1,6 +1,139 @@
-h1, h2, h3, p, a{
-    color: #e5e5e5e7;
+header{
+
+    position: absolute;
+    width: 1440px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+
+    background: #110047;
 }
 
 
+main{
+    position: absolute;
+    width: 1440px;
+    height: 698px;
+    left: 0px;
+    top: 70px;
 
+    background: rgba(128, 128, 128, 0.56);
+}
+
+
+#logo{
+    position: absolute;
+    width: 112px;
+    height: 33px;
+    left: 135px;
+    top: 14px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #FFFFFF;
+
+}
+
+#formacao{
+    position: absolute;
+    width: 131px;
+    height: 33px;
+    left: 584px;
+    top: 25px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+}
+
+#experiencia{
+    position: absolute;
+    width: 150px;
+    height: 33px;
+    left: 769px;
+    top: 23px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+}
+
+#projetos{
+    position: absolute;
+    width: 98px;
+    height: 33px;
+    left: 973px;
+    top: 23px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+
+}
+
+#area{
+    position: absolute;
+    width: 150px;
+    height: 33px;
+    left: 1161px;
+    top: 23px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+
+}
+
+#conheca-me{
+    position: absolute;
+    width: 241px;
+    height: 38px;
+    left: 135px;
+    top: 235px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 39px;
+    line-height: 47px;
+
+    color: #FFFFFF;
+
+}
+
+
+p{
+    position: absolute;
+    width: 887px;
+    height: 217px;
+    left: 135px;
+    top: 358px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 31px;
+
+    color: #FFFFFF;
+}
